@@ -71,7 +71,7 @@ Located in the test/ and integration_test/ directories (see repo).
 
 🚀 Getting Started
 1. Clone Repo
-   git clone https://github.com/keyur47/workout_tracker.git
+   git clone https://github.com/keyur47/Workout-Tracker.git
    cd workout_tracker
 2. Install Dependencies
    flutter pub get
